@@ -28,9 +28,9 @@ A REST API built with Node.js and Express.js that processes data arrays and retu
 ```json
 {
   "is_success": true,
-  "user_id": "piyush_torawane_29082002",
-  "email": "piyush.torawane@example.com",
-  "roll_number": "21BCE123",
+  "user_id": "user_29082002",
+  "email": "user@example.com",
+  "roll_number": "21BCE10828",
   "odd_numbers": ["1"],
   "even_numbers": ["334","4"],
   "alphabets": ["A","R"],
